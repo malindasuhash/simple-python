@@ -1,2 +1,2 @@
-# simple-python
-Simple python scripts and learning material
+# Simple python
+Basic python scripts and learning material.
