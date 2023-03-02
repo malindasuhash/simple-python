@@ -17,4 +17,4 @@ def sub(x, y):
 
 print(square(10))
 
-print(square)
+print(square) # Functions are objects too.
