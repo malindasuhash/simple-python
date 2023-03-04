@@ -63,3 +63,8 @@ print(x)
 
 _x = 20
 print(_x)
+
+ # provided. 
+# Expression is part of a statement and it is usually evaluated 
+
+# Functions are evalu 
