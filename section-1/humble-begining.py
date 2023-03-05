@@ -64,7 +64,7 @@ print(x)
 _x = 20
 print(_x)
 
- # provided. 
-# Expression is part of a statement and it is usually evaluated 
-
-# Functions are evalu 
+# There are statements which are syntactically valid 
+# programming lines. Statments are consists of
+# expressions which are evaluated and then assigned to 
+# appropriate return variable. 
